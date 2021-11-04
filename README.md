@@ -1,8 +1,12 @@
 **Hi there 👋**, My name is **Alexander Schranz** and I'm Core Developer working at the Symfony based [**Sulu CMS**](https://github.com/sulu/).
 
-Mostly of the time I'm working with [PHP](https://github.com/php/php-src/), [Symfony](github.com/symfony/symfony/), [Sulu](github.com/sulu/sulu/), [ReactJS](https://github.com/facebook/react), [MySQL](https://github.com/mysql/mysql-server), [Redis](https://github.com/redis/redis) and [Elasticsearch](https://github.com/elastic/elasticsearch). Also I like [GoLang](https://golang.org/) for websocket based things.
+Mostly of the time I'm working with [PHP](https://github.com/php/php-src/), [Symfony](github.com/symfony/symfony/), [Sulu](github.com/sulu/sulu/), [ReactJS](https://github.com/facebook/react), [Doctrine ORM](https://github.com/doctrime/orm),  [MySQL](https://github.com/mysql/mysql-server), [Redis](https://github.com/redis/redis) and [Elasticsearch](https://github.com/elastic/elasticsearch). Also I like [GoLang](https://golang.org/) for websocket based things.
 
-Beside my beneath and blogs on [sulu.io](https://sulu.io) website you can find the following articles here on github:
+Beside sulu core I'm also main maintainer of the [sulu/web-js](https://github.com/sulu/web-js) package a simple lightweight component based package to create and manage your javascript components for websites.
+
+I'm also a big fan of [Roadrunner](https://github.com/spiral/roadrunner) and believe that the [PHP Runtime](https://github.com/php-runtime/runtime) will change how we will run PHP Application in the future. 
+
+Beside blogs on the [sulu.io](https://sulu.io) website you can find my personally articles here on github:
 
 - 🖌️ [ITCSS, BEM and Rethinking Design Practices](https://github.com/alexander-schranz/itcss)
 - 🥬 [Twig for React Developers](https://github.com/alexander-schranz/twig-for-react-devs)
