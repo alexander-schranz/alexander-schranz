@@ -13,6 +13,7 @@ Beside blogs on the [sulu.io](https://sulu.io) website you can find my personall
 - 🕒 [Efficient JSON Streaming with Symfony and Doctrine](https://github.com/alexander-schranz/efficient-json-streaming-with-symfony-doctrine)
 - ✂️ [Do I really need a Serializer for a JSON API?](https://github.com/alexander-schranz/do-we-really-need-a-serializer)
 - 🔛 [Testing APIs using Markdown and PHP Matcher](https://github.com/alexander-schranz/markdown-based-api-testing)
+- 🧶 [Single Class integration of a Library into the Symfony Ecosystem](https://github.com/alexander-schranz/single-class-symfony-integraton-class)
 - 🏗️ [Project "Rabbit Hole": Dig into the rabbit hole of Hexagonal Architecture](https://github.com/alexander-schranz/hexagonal-architecture-study) (work in process)
 
 I'm happy for any feedback about my work.
