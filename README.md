@@ -17,3 +17,7 @@ Beside blogs on the [sulu.io](https://sulu.io) website you can find my personall
 - 🏗️ [Project "Rabbit Hole": Dig into the rabbit hole of Hexagonal Architecture](https://github.com/alexander-schranz/hexagonal-architecture-study) (work in process)
 
 I'm happy for any feedback about my work.
+
+Non technical blog:
+
+ - [10 Years as a Full Time Web Developer](https://github.com/alexander-schranz/ten-years-as-a-web-developer)
