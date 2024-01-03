@@ -4,9 +4,9 @@ Mostly of the time I'm working with [PHP](https://github.com/php/php-src/), [Sym
 
 Beside Sulu core I'm also main maintainer of the [sulu/web-js](https://github.com/sulu/web-js) package a simple lightweight component based package to create and manage your javascript components for websites.  
 
-I'm maintainer and creator of [SEAL - The Search Engine Abstraction Layer for PHP](https://github.com/schranz-search/schranz-search), it provides an abstraction around different search engines (Elasticsearch, Opensearch, Meilisearch, Algolia, Redisearch, Solr, Loupe and Typesense).
+Another project which I maintain and created is [SEAL - The Search Engine Abstraction Layer for PHP](https://github.com/schranz-search/schranz-search), it provides an abstraction around different search engines (Elasticsearch, Opensearch, Meilisearch, Algolia, Redisearch, Solr, Loupe and Typesense).
 
-I'm also a big fan of [Roadrunner](https://github.com/spiral/roadrunner) and believe that the [PHP Runtime](https://github.com/php-runtime/runtime) will change how we will run PHP Application in the future. 
+I'm also a big fan of [Roadrunner](https://github.com/spiral/roadrunner) or [FrankenPHP](https://github.com/dunglas/frankenphp) and believe that the [PHP Runtime](https://github.com/php-runtime/runtime) will change how we will run PHP applications in the future. 
 
 Beside blogs on the [sulu.io](https://sulu.io) website you can find my personally articles here on github:
 
