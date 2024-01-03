@@ -2,7 +2,8 @@
 
 Mostly of the time I'm working with [PHP](https://github.com/php/php-src/), [Symfony](github.com/symfony/symfony/), [Sulu](github.com/sulu/sulu/), [ReactJS](https://github.com/facebook/react), [Doctrine ORM](https://github.com/doctrime/orm),  [MySQL](https://github.com/mysql/mysql-server), [Redis](https://github.com/redis/redis) and [Elasticsearch](https://github.com/elastic/elasticsearch). Also I like [GoLang](https://golang.org/) for websocket based things.
 
-Beside sulu core I'm also main maintainer of the [sulu/web-js](https://github.com/sulu/web-js) package a simple lightweight component based package to create and manage your javascript components for websites.
+Beside Sulu core I'm also main maintainer of the [sulu/web-js](https://github.com/sulu/web-js) package a simple lightweight component based package to create and manage your javascript components for websites.  
+I'm Maintainer and creator of [SEAL - The Search Engine Abstraction Layer](https://github.com/schranz-search/schranz-search) for PHP, it provides an abstraction around different search engines (Elasticsearch, Opensearch, Meilisearch, Algolia, Redisearch, Solr, Loupe and Typesense).
 
 I'm also a big fan of [Roadrunner](https://github.com/spiral/roadrunner) and believe that the [PHP Runtime](https://github.com/php-runtime/runtime) will change how we will run PHP Application in the future. 
 
