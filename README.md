@@ -24,3 +24,10 @@ I'm happy for any feedback about my work.
 Non technical blog:
 
  - [10 Years as a Full Time Web Developer](https://github.com/alexander-schranz/ten-years-as-a-web-developer)
+
+## Social Media Profiles
+
+ - Bluesky:		[@alexander-schranz.bsky.social](https://bsky.app/profile/alexander-schranz.bsky.social)
+ - X / Twitter:		[@alex_s_](https://x.com/alex_s_)
+ - Mastodon:		[alex_s@mastodon.social](https://mastodon.social/@alex_s_)
+ - LinkedIn:		[@alexander-schranz](https://www.linkedin.com/in/alexander-schranz)
