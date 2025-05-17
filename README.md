@@ -17,7 +17,8 @@ Beside blogs on the [sulu.io](https://sulu.io) website you can find my personall
 - 🔛 [Testing APIs using Markdown and PHP Matcher](https://github.com/alexander-schranz/markdown-based-api-testing)
 - 🧶 [Single Class integration of a Library into the Symfony Ecosystem](https://github.com/alexander-schranz/single-class-symfony-integraton-class)
 - 🛑 [Handling optional dependencies with composer](https://github.com/alexander-schranz/composer-optional-dependencies)
-- 🏗️ [Project "Rabbit Hole": Dig into the rabbit hole of Hexagonal Architecture](https://github.com/alexander-schranz/hexagonal-architecture-study) (work in process)
+- 🏗️ [Project "Rabbit Hole": Dig into the rabbit hole of Hexagonal Architecture](https://github.com/alexander-schranz/hexagonal-architecture-study) (unfinished)
+- 🧱 [How to flatten and unflatten complex JSON Objects or PHP arrays?](https://github.com/alexander-schranz/flatten-marshaller)
 
 I'm happy for any feedback about my work.
 
